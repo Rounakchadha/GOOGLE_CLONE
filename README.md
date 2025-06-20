@@ -1,2 +1,2 @@
 # GOOGLE_CLONE
-GOOGLE clone made from html and css
+GOOGLE clone front-end made from html and css
